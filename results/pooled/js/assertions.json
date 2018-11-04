@@ -1,0 +1,10 @@
+{
+  "simulation": "br.com.test.MQSimulation",
+  "simulationId": "mqsimulation",
+  "start": 1541363490033,
+  "description": "",
+  "scenarios": ["Create"],
+  "assertions": [
+
+  ]
+}
